@@ -1,1 +1,1 @@
-# LiverPatientPred
+# Liver Patient Prediction
