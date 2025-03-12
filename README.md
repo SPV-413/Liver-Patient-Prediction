@@ -1,1 +1,2 @@
 # Liver Patient Prediction
+This project focuses on predicting liver disease using machine learning models trained on the **Indian Liver Patient Dataset (ILPD)**. The dataset contains clinical parameters such as **bilirubin levels, enzyme levels, protein concentrations**, and more. The objective is to classify patients into two categories: **liver disease present (1) or absent (2)**.
