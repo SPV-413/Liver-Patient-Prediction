@@ -61,9 +61,9 @@ Ensure you have the following installed:
 
 ### Running the Notebook
 1. Clone the repository:
-   git clone https://github.com/SPV-413/liver-patient-prediction.git
+   git clone https://github.com/SPV-413/Liver-Disease-Prediction.git
 2. Navigate to the project folder:
-   cd liver-patient-prediction
+   cd Liver-Disease-Prediction
 3. Open the Jupyter Notebook:
    jupyter notebook PRCP-1007-LiverPatientPred.ipynb
 
