@@ -71,8 +71,5 @@ Ensure you have the following installed:
 - **Logistic Regression** achieved the highest F1 Score.
 - The project successfully demonstrates data preprocessing, model training, evaluation, and hyperparameter tuning.
 
-## License
-This project is open-source!
-
 ## Contact
 For any inquiries, reach out via GitHub or email.
