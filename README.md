@@ -70,6 +70,7 @@ Ensure you have the following installed:
 ## Results
 - **Logistic Regression** achieved the highest F1 Score.
 - The project successfully demonstrates data preprocessing, model training, evaluation, and hyperparameter tuning.
+- Assisting doctors in early diagnosis and intervention.
 
 ## Contact
 For any inquiries, reach out via GitHub or email.
