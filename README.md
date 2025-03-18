@@ -31,6 +31,8 @@ This project focuses on predicting liver disease using machine learning models t
 - Encoding categorical features(`OneHotEncoder`)
 - Feature scaling (`MinMaxScaler`)
 - Feature selection
+- Feature Balancing
+  - SMOTE
 - Splitting dataset into training & testing sets (`train_test_split`)
   
 ### 3. **Machine Learning Models**
