@@ -34,7 +34,7 @@ This project focuses on predicting liver disease using machine learning models t
 - Splitting dataset into training & testing sets (`train_test_split`)
   
 ### 3. **Machine Learning Models**
-The project implements multiple machine learning algorithms & one neural network algorithm for classification:
+The project implements multiple machine learning algorithms & one deep learning algorithm for classification:
 - **Logistic Regression**
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
